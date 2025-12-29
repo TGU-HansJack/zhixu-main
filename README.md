@@ -7,13 +7,15 @@
 ## 群聊/博客
 
 - QQ群：[556339740](https://qun.qq.com/universal-share/share?ac=1&authKey=MtLz9msltLKFdFwplHGjYHgw8K%2FGniUyD5dJAvdhlrY06RZ%2F0Rz%2FmusEGZpzf8tR&busi_data=eyJncm91cENvZGUiOiI1NTYzMzk3NDAiLCJ0b2tlbiI6InRqQTkvN3lpTzhKYjZrL2tjMmFtcEFBemJUUnZvbWt1bWZOU1dwYWh4MjAwb3Y2YjFNR05rV1hsczVxQVBzZDkiLCJ1aW4iOiIyOTU5NjAyNjk2In0%3D&data=gTYImFJx5X19ri9DOY2bjmT2FZwoWCeZ_SOC004XOMLoUXH30wBGlhE76iu0Cz41LjpTBrLGpzCd5Egi_ILfpg&svctype=4&tempid=h5_group_info)
+- 官网【暂未搭建】：[知序 (Zhixu)](https://zhixu.app/)
 - 博客：[www.hansjack.com](https://www.hansjack.com/)
 - 赞助：[赞助我](https://www.hansjack.com/sponsor)
+- 反馈社区：[知序 (Zhixu) 反馈](https://feedback.zhixu.app/)
 
 ## 预览图
 
 ![](/zhixu.png)
 
-## 目前卡顿
+## 目前debug卡顿严重，下载release即可
 
 ![](/Snipaste_2025-12-28_13-27-51.png)
